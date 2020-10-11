@@ -1,0 +1,1 @@
+{"sc":[{"pName":"GGG","score":66,"time":75.0,"hitsPerSec":0.8799999952316284},{"pName":"aaa","score":65,"time":75.0,"hitsPerSec":0.8666666746139526},{"pName":"DAN","score":152,"time":180.0,"hitsPerSec":0.8444444537162781}]}
